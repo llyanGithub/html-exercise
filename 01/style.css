@@ -1,0 +1,30 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background:url(bg.jpg) no-repeat center; 
+    background-size:cover;
+}
+#wrapper {
+//    border:2px solid blue;
+    display:inline-block;
+    position:absolute;
+    left:450px;
+    top:400px;
+}
+
+#motto {
+    font-size:50px;
+    margin-bottom:20px;
+}
+
+#enter {
+    border:2px solid gray;
+    font-size:50px;
+    display:inline-block;
+    position:relative;
+    left:150px;
+    padding:5px 50px;
+}
